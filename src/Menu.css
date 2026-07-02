@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.menu_button {
+  @apply px-1 py-1 rounded-md hover:bg-purple-700 active:bg-purple-600 transition-colors duration-200;
+}
