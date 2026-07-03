@@ -5,7 +5,7 @@ function Main() {
   return (
     <div className='main_page'>
       <Menu/>
-      <div>Some text - 1</div>
+      <div>Some text. Check for auto update.</div>
     </div>
   )
 }
